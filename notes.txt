@@ -1,0 +1,29 @@
+-- Review of Linked Lists --
+
+1st problem from Project
+
+see demo 1
+
+
+
+-- Stacks and Queues --
+
+Dynamic arrays and Linked lists are commonly used to implement stacks and queues
+
+Queue Vs Stack
+
+Queue = First In First Out (FIFO)
+    -- line at store
+
+Stack = Last In First Out (LIFO)
+    -- stack of plates
+
+Queues are all about the beginning and the end - not the middle
+    -- Linked Lists are really fast at the front and the end, but slow in the middle
+    -- Dynamic Arrays are fast at the end and the middle
+    -- Therefore, linked lists are used to implement Queues rather than dynamic arrays
+
+Stacks are all about the beginning or the end -- not the middle or both ends
+    -- Therefore, either linked lists or dynamic arrays can be used to implement Stacks
+    -- Stacks can use either the beginning or the end, but not both
+
